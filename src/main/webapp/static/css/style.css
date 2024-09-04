@@ -1,0 +1,58 @@
+@charset "ISO-8859-1";
+
+.list-card-image{
+	height: 20rem;
+}
+
+.list-card{
+	width: 18rem;
+	height: 33rem;
+	
+	
+}
+
+.nav-item,.nav-tabs{
+	display: inline-block;
+	padding : 0 10px;
+	height: 40px;
+	border-right: 1px solid #000;
+	font-size: 1rem;
+	
+	
+}
+
+.details-card-image{
+	width: 40rem;
+	height: 35rem;
+}
+.user-card-image{
+	width: 30rem;
+	min-height: 40rem;
+	max-height: 40rem;
+	object-fit: fill;
+}
+.details-card{
+	width: 50rem;
+	height: 50rem;
+}
+.clear-float{
+	clear:both;
+	
+}
+.edit{
+	width: 700px;
+	height: 30rem;
+}
+
+.card-body{
+	flex: 1 1 auto;
+	padding: 1.25rem;
+}
+
+.footer-show{
+	background-color: black;
+	font-display: white;
+}
+
+
+
