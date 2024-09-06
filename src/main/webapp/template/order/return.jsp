@@ -162,6 +162,9 @@
                                         <p class="card-text">Subtotal: $${order.subTotal}</p>
                                         <p class="card-text">Address: ${order.address}</p>
                                         <p class="card-text">Your Email: ${user.email}</p>
+                                        <p class="card-text">Pay for your purchase here.</p>
+                                        <p class="card-text">Kpay : 09467234987</p>
+                                        <p class="card-text">Wave : 09774563213</p>
                                         <p class="card-text">Please enter user code for payment node.<br>User Code: SM${user.id}</p>
                                        
         </div>
